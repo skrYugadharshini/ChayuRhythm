@@ -11,8 +11,8 @@
     top: 0;
     left: 0;
     width: 100%;
-    padding: 15px 12%;
-    background: rgba(0, 0, 0, 0.8);
+    padding: 25px 18%;
+    background: rgba(40, 2, 50, 0.858);
     backdrop-filter: blur(10px);
     display: flex;
     justify-content: space-between;
@@ -28,9 +28,9 @@
 }
 
 .logo:hover {
-    color: orangered;
-    text-shadow: 0 0 25px orangered,
-        0 0 50px orangered;
+    color: rgba(157, 0, 255, 0.545);
+    text-shadow: 0 0 25px rgba(157, 0, 255, 0.788),
+        0 0 50px rgba(157, 0, 255, 0.788);;
     transform: scale(1.1);
 }
 .navbar a{
